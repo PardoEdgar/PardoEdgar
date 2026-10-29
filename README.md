@@ -1,7 +1,7 @@
 ## About me
 
 
-Computational biologist and data scientist focused on understanding ecosystem and animal resilience and managing sustainable use through computer vision, machine learning, and statistical modeling. I have developed automated pipelines for the large-scale extraction and analysis of animal cardiovascular physiology, coral reef monitoring, plant anatomy, and environmental sensor data, integrating experimental biology with computational approaches. These pipelines have improved data precision and accuracy while reducing data extraction and processing time by up to 80%. My interests focus on transforming large volumes of complex biological data into new tools for environmental monitoring and the sustainable use of marine ecosystems.
+Computational biologist and data scientist focused on understanding Animal and Ecosystem health at multiple scales, developing experimental, computational, and molecular tools. I have automated large-scale data extraction and analysis of snail cardiovascular physiology, plant anatomy, coral reef health status, and environmental sensor data. My interests focus on transforming complex biological data into new tools to assess animal and ecosystem biological condition for welfare and health.
 
 - B.Sc. Biologist, Research Assistant and Laboratory Instructor, Universidad del Rosario (2021-2025). 
 - Research Fellow and Intern, Smithsonian Tropical Research Institute (STRI), Panama (2026-present).
